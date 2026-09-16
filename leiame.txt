@@ -1,0 +1,27 @@
+------------ PROJETO GENESIS --------------
+Autor : Marcos Romero (RH Games - Beljogos)
+Email : romero1978@gmail.com
+Página: http://romerogames.blogspot.com
+-------------------------------------------
+
+Info: 
+
+Jogo em modo texto feito com a linguagem Pascal. É para 1 ou 2 jogadores.
+Possui 5 fases, tem instruções no jogo e salva os recordes das fases em um arquivo.
+
+
+Mina2.zip:
+
+- MINA2.PAS: Código fonte em Pascal do jogo Mina 2.
+
+- MINA2.EXE: Arquivo executável do jogo Mina 2.
+
+- MINA2_win64bit.EXE: Versão do jogo Mina 2 que roda nas versões 64bits do Windows.
+
+
+Blog:
+
+Devido a procura existente por jogos feitos em linguagem Pascal, resolvi criar o blog 
+http://mina2pascal.blogspot.com cujo objetivo é explicar o funcionamento do código fonte do Mina 2.
+
+
